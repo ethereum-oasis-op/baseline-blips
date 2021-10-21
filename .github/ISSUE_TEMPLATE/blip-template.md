@@ -1,20 +1,20 @@
 ---
 name: BLIP Template
 about: Describe this issue template's purpose here.
-title: "[BLIP-#] ShortTitle"
+title: "[BLIP] ShortTitle"
 labels: ''
 assignees: ''
 
 ---
 
-title: <The BLIP title in a few words, not a complete sentence>
+# <The BLIP title in a few words, not a complete sentence>
 
-description: <Description is one full (short) sentence>
+<Description is one full (short) sentence>
 
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+<a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 
 ---
-This is the suggested minimum template for new BLIPs:
+Below are optional attributes of the BLIP that you can choose to use or delete:
 
 # Abstract
 Abstract is a multi-sentence (short paragraph) technical summary. This should be a very terse and human-readable version of the specification section. Someone should be able to read only the abstract to get the gist of what this specification does.
