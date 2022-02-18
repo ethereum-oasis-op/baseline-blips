@@ -1,6 +1,6 @@
 # <The BLIP title in a few words, not a complete sentence>
 
-<-- Description is one full (short) sentence -->
+<!--- Description is one full (short) sentence -->
 
 <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. 
 (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
@@ -35,6 +35,8 @@ An optional section that contains a reference/example implementation that people
 # Security Considerations
 All BLIPs must contain a section that discusses the security implications/considerations relevant to the proposed change. Include information that might be important for security discussions, surfaces risks and can be used throughout the life cycle of the proposal. E.g. include security-relevant design decisions, concerns, important discussions, implementation-specific guidance and pitfalls, an outline of threats and risks and how they are being addressed. BLIP submissions missing the "Security Considerations" section will be rejected. A BLIP cannot proceed to status "Final" without a Security Considerations discussion deemed sufficient by the reviewers.
 
+# Grant Work
+BLIPs that are related to an [approved grant project](https://github.com/eea-oasis/baseline-grants)require updates by the 1st of each month by adding a comment on this issue with a detailed update on progress, roadblocks, and any comments. 
 ---
 Copyright
 Copyright and related rights waived via CC0-Universal.
