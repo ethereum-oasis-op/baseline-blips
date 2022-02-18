@@ -9,7 +9,7 @@ Use the [BLIP template](https://github.com/eea-oasis/baseline-blips/blob/main/.g
 * Visit the Baseline Protocol website [here](https://baseline-protocol.org)
 * The Baseline Protocol Standard is located [here](https://github.com/eea-oasis/baseline-standard)
 * Official Baseline Protocol core interfaces, reference implementations, and examples are located [here](https://github.com/eea-oasis/baseline)
-* Core Devs can apply for a grant for BLIP work [here](https://github.com/eea-oasis/baseline-grants)
+* Core Devs can apply to recieve grant funds for their BLIP work [here](https://github.com/eea-oasis/baseline-grants)
 
 ###
 The Baseline Protocol community is goverened as an [EEA-Community Project](https://entethalliance.org/eeacommunityprojects/) initiative administrated by [Oasis-Open.org](https://oasis-open.org)
