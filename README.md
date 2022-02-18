@@ -1,8 +1,6 @@
 # baseline-blips
 <h2>Baseline Protocol Improvement Proposals (BLIPs)</h2>
 
-The core devs and standards body of the Baseline Protocol, are goverened as an [EEA-Community Project](https://entethalliance.org/eeacommunityprojects/) initiative administrated by [Oasis-Open](https://oasis-open.org), use this repo to collect, organize, priorititize, and track progress on improvements to the Baseline Protocol standard and codebase
-
 The core devs and standards body of the Baseline Protocol, are goverened as an [EEA-Community Project](https://entethalliance.org/eeacommunityprojects/) initiative administrated by [Oasis-Open.org](https://oasis-open.org), use this repo to collect, organize, priorititize, and track progress on improvements to the Baseline Protocol standard and codebase.
 
 Use the Issues in the Repo with the provided simple templates, modeled based on the Ethereum Improvement Proposal (EIP) format.
