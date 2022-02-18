@@ -37,6 +37,7 @@ All BLIPs must contain a section that discusses the security implications/consid
 
 # Grant Work
 BLIPs that are related to an [approved grant project](https://github.com/eea-oasis/baseline-grants)require updates by the 1st of each month by adding a comment on this issue with a detailed update on progress, roadblocks, and any comments. 
+
 ---
 Copyright
 Copyright and related rights waived via CC0-Universal.
