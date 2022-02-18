@@ -1,17 +1,9 @@
----
-name: BLIP Template
-about: Describe this issue template's purpose here.
-title: "[BLIP] ShortTitle"
-labels: ''
-assignees: ''
-
----
-
 # <The BLIP title in a few words, not a complete sentence>
 
-<Description is one full (short) sentence>
+<-- Description is one full (short) sentence -->
 
-<a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+<a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. 
+(use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
 
 ---
 Below are optional attributes of the BLIP that you can choose to use or delete:
