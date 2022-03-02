@@ -1,7 +1,7 @@
 # baseline-blips
 <h2>Baseline Protocol Improvement Proposals (BLIPs)</h2>
 
-This repo is used to collect, organize, priorititize, and track progress on improvements to the Baseline Protocol codebase and standard.
+This repo is used to collect, organize, prioritize, and track progress on improvements to the Baseline Protocol codebase and standard.
 
 Use the [BLIP template](https://github.com/eea-oasis/baseline-blips/blob/main/.github/ISSUE_TEMPLATE/blip-template.md) to submit an improvement proposal, modeled based on the Ethereum Improvement Proposal (EIP) format.
 
