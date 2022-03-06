@@ -2,6 +2,9 @@
 
 <h2>Baseline Protocol Improvement Proposal (BLIPs)</h2>
 
+This repo is used to collect, organize, prioritize, and track progress on improvements to the Baseline Protocol codebase and standard.
+
+
 Have an idea on how to make the Baseline Protocol even better? Want to propose your ideas to the Baseline community, and work with others to implement your idea? **Submit a BLIP!**
 As an open source protocol, the Baseline community powers the standard! These BLIPs ensure innovative ideas don't get left behind.
 
