@@ -11,7 +11,7 @@ The motivation section should describe the "why" of this BLIP. What problem does
 
 ---
 
-**Other categories for details to include in your BLIP can be found in [additional-blip-headers.md](/.github/ISSUE_TEMPLATE/additional-blip-headers.md/) located in ISSUE_TEMPLATE folder**
+**Other categories for details to include in your BLIP can be found in [additional-blip-headers.md](/.github/ISSUE_TEMPLATE/supplementary-blip-headers.md/) located in ISSUE_TEMPLATE folder**
 
 ---
 
