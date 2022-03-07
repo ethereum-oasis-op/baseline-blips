@@ -17,7 +17,7 @@ This should be provided through a comment on the issue with progress, roadblocks
 
 ---
 
-**More header ideas found in additional-blip-headers.md located in ISSUE_TEMPLATE folder
+**More header ideas found in additional-blip-headers.md located in ISSUE_TEMPLATE folder**
 
 ---
 
