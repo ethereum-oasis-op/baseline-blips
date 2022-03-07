@@ -21,6 +21,8 @@ All BLIPs must contain a section that discusses the security implications/consid
 
 ---
 
+**More header ideas found in additional-blip-headers.md located in ISSUE_TEMPLATE folder
+
 Copyright and related rights waived via CC0-Universal.
 
 (This template adapted from the EIP template at https://github.com/ethereum/EIPs/
