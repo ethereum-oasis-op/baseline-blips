@@ -11,14 +11,13 @@ The motivation section should describe the "why" of this BLIP. What problem does
 
 ---
 
-**More header ideas found in additional-blip-headers.md located in ISSUE_TEMPLATE folder**
+**More header ideas found in [additional-blip-headers.md](/ISSUE_TEMPLATE/additional-blip-headers.md/) located in ISSUE_TEMPLATE folder**
 
 ---
 
 # Grant Work
 BLIPs that are related to an [approved grant project](https://github.com/eea-oasis/baseline-grants) require updates by the 1st of each month.
 This should be provided through a comment on the issue with progress, roadblocks, and any comments.
-
 
 
 ---
