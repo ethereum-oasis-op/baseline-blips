@@ -1,0 +1,3 @@
+# BLIP Bounty Hunt - Terms & Conditions
+
+The list of Baseline improvement proposals (BLIPs) released as part of the bounty hunt are suggestions provided by the community of proposed connectors, implementations, examples, and needs that would add value to the protocol. The ‘proposed amount’ is a suggestion, and fund approval will be determined once the proposed details of the work are documented by the proposer and approved by the TSC, per the usual grant process. The purpose of the initiative is to build momentum and onboard new members interested in the work, using the existing processes in the Baseline Protocol community. The list of BLIP ideas is not exhaustive, people are always encouraged to submit BLIP ideas for themselves or others to take on in the BLIP repo.
